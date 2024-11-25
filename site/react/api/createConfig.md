@@ -1,6 +1,6 @@
 <script setup>
 const docsPath = 'react'
-const packageName = 'wagmi'
+const packageName = 'cindai'
 const connectorsPackageName = 'wagmi/connectors'
 </script>
 
